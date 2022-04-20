@@ -1,0 +1,17 @@
+{
+  "name": "chewy",
+  "version": "0.0.1",
+  "description": "Chewy v13 sıfırdan bot yapımı.",
+  "main": "chewy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chewy"
+  ],
+  "author": "Chewy",
+  "license": "MIT",
+  "dependencies": {
+    "orio.db": "^3.1.0"
+  }
+}
